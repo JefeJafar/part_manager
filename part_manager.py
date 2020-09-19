@@ -18,6 +18,5 @@ part_entry = Entry(app, textevariable = part_text)
 part_entry.grid(row=0, column=1)
 
 
-
 # Main Loop to Start Program 
 app.mainloop()
