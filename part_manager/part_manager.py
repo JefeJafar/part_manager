@@ -3,8 +3,6 @@
 
 from tkinter import *
 
-
-
 #App define / Title 
 app = Tk()
 app.title("Part Manager")
